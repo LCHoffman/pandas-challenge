@@ -2,7 +2,7 @@
 
 Data Frame Images - a PNG file with each data frame result
 
-PyCitySchools_starter: the file included in the Homework folder.  No work was done within this file.
+PyCitySchools_starter: originally included in the homework download, this file was deleted.
 
 District Summary: This file uses the provided CSV files to create a summary table describing the total schools, students and budget in the district.  It also describes the overall percent of students passing math, reading and both courses, including average scores in each.  The District Summary Dataframe will be the only display at the bottom of the notebook.
 
@@ -15,3 +15,6 @@ Scores Grouped: This file uses the code from Schools Summary to create the initi
 READING Grade Level Summary: This file uses the student data csv to summarize the scores for the subject by grade level and school.
 
 MATH Grade Level Summary: This file uses the student data csv to summarize the scores for the subject by grade level and school.
+
+
+Observations is a text file created in Jupyter Notebook, describing two observable trends and a conclusion with a statement on the use of the data.
